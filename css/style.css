@@ -266,6 +266,7 @@ button {
 }
 
 .main {
+  margin-top: 117px;
   -webkit-box-flex: 1;
       -ms-flex: 1 1 auto;
           flex: 1 1 auto;
@@ -917,6 +918,10 @@ button {
 
   .header._active .menu__list {
     left: 0;
+  }
+
+  .main {
+    margin-top: 85px;
   }
 
   .button {
